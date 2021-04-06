@@ -5,7 +5,7 @@ public class Test1 {
 
     public void a(){
         //test
-        System.out.print("abc");
+        System.out.print("pj");
         System.out.print("abc");
         System.out.print("abc");
         System.out.print("abc");
